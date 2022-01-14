@@ -27,7 +27,7 @@ Syntax highlighted code block
 ```
 ### Papers
 
-Practical Machine Learning project: [MLandExercise](https://stricje1.github.io/blob/main/docs/ExerciseGadgetsAndMachineLearning)
+Practical Machine Learning project: [MLandExercise](https://stricje1.github.io/blob/main/docs/ExerciseGadgetsAndMachineLearning.html)
 
 ### Writing and Formatting Help
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
